@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="vindicator_slayer"
+version="1.3.1"
+displayName="Vindicator Slayer"
+authors="quan"
+description='''一把对灾厄村民(掠夺者、卫道士、幻魔者、劫掠兽、女巫、幻术师)特攻的剑。对灾厄阵营额外造成伤害;高处下落命中可触发猛击(封顶 +10),猛击命中不击退目标、回弹稳定,可配合致密附魔叠加(有效下落最高 10 格)。'''
+
+[[dependencies.vindicator_slayer]]
+modId="neoforge"
+mandatory=true
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.vindicator_slayer]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,55 @@
+{
+  "parent": "vindicator_slayer:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:vindicator_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.vindicator_slayer.kill.title"
+    },
+    "description": {
+      "translate": "advancements.vindicator_slayer.kill.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "killed": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type": "minecraft:vindicator"
+            },
+            "entity": "this"
+          }
+        ],
+        "killing_blow": {
+          "condition": "minecraft:damage_source_properties",
+          "predicate": {
+            "direct_entity": {
+              "condition": "minecraft:entity_properties",
+              "predicate": {
+                "equipment": {
+                  "mainhand": {
+                    "items": [
+                      "vindicator_slayer:vindicator_slayer"
+                    ]
+                  }
+                }
+              },
+              "entity": "this"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

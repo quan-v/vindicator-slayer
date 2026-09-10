@@ -1,0 +1,13 @@
+{
+  "item.vindicator_slayer.vindicator_slayer": "Vindicator Slayer",
+  "item.vindicator_slayer.vindicator_slayer.lore1": "Deals bonus damage to raiders",
+  "item.vindicator_slayer.vindicator_slayer.lore2": "Smash attack on falling hits (capped at +10)",
+  "item.vindicator_slayer.vindicator_slayer.lore3": "Density stacks, effective fall capped at 10 blocks",
+  "item.vindicator_slayer.vindicator_slayer.lore4": "Smash doesn't knock back the target; more stable relaunch",
+  "fml.menu.mods.info.description.vindicator_slayer": "A sword specialized against raiders (pillager, vindicator, evoker, ravager, witch, illusioner). Deals bonus damage to the raider faction; falling strikes trigger a smash attack (capped at +10). Smash hits don't knock back the target and relaunch stably; stackable with Density (effective fall capped at 10 blocks).",
+  "itemGroup.vindicator_slayer": "Vindicator Slayer",
+  "advancements.vindicator_slayer.root.title": "Vindicator Slayer",
+  "advancements.vindicator_slayer.root.description": "Craft the legendary sword against raiders",
+  "advancements.vindicator_slayer.kill.title": "Blade of Vengeance",
+  "advancements.vindicator_slayer.kill.description": "Execute a vindicator with the Vindicator Slayer"
+}

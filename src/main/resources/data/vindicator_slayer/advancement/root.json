@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "vindicator_slayer:vindicator_slayer"
+    },
+    "title": {
+      "translate": "advancements.vindicator_slayer.root.title"
+    },
+    "description": {
+      "translate": "advancements.vindicator_slayer.root.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "crafted": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "vindicator_slayer:vindicator_slayer"
+      }
+    }
+  }
+}

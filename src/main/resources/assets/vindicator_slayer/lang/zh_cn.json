@@ -1,0 +1,13 @@
+{
+  "item.vindicator_slayer.vindicator_slayer": "卫道士克星",
+  "item.vindicator_slayer.vindicator_slayer.lore1": "对灾厄村民特攻:额外造成伤害",
+  "item.vindicator_slayer.vindicator_slayer.lore2": "高处下落命中触发猛击(封顶 +10)",
+  "item.vindicator_slayer.vindicator_slayer.lore3": "致密附魔可叠加,有效下落最高 10 格",
+  "item.vindicator_slayer.vindicator_slayer.lore4": "猛击命中不击退目标,回弹更稳、连招可接",
+  "fml.menu.mods.info.description.vindicator_slayer": "一把对灾厄村民(掠夺者、卫道士、幻魔者、劫掠兽、女巫、幻术师)特攻的剑。对灾厄阵营额外造成伤害;高处下落命中可触发猛击(封顶 +10),猛击命中不击退目标、回弹稳定,可配合致密附魔叠加(有效下落最高 10 格)。",
+  "itemGroup.vindicator_slayer": "卫道士克星",
+  "advancements.vindicator_slayer.root.title": "卫道士克星",
+  "advancements.vindicator_slayer.root.description": "合成这把专杀灾厄村民的神剑",
+  "advancements.vindicator_slayer.kill.title": "复仇之刃",
+  "advancements.vindicator_slayer.kill.description": "用卫道士克星亲手处决一个卫道士"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "vindicator_slayer:item/vindicator_slayer"
+  }
+}
