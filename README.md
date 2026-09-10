@@ -23,6 +23,12 @@ gradle build
 
 Built jar lands in `build/libs/`.
 
+## 版本历史说明 / Version history note
+
+> v1.0.0 – v1.3.0 的源码因磁盘故障未能保留（成品 jar 均可在 Modrinth 下载）；本仓库源码自 v1.3.1 起，经反编译恢复并已通过完整重编译验证（产物与发布 jar 逐条目一致）。
+>
+> Sources for v1.0.0 – v1.3.0 were lost to a disk failure (binaries remain downloadable on Modrinth). Repository source starts at v1.3.1, recovered via decompilation and verified by a full rebuild that reproduces the shipped jar (37/37 entries identical).
+
 ## License
 
 MIT
