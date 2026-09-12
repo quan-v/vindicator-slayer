@@ -4,7 +4,7 @@
 
 A NeoForge weapon mod for Minecraft 1.21.1. Adds "Vindicator Slayer", a sword that deals
 bonus damage to the raider faction (pillager, vindicator, evoker, ravager, witch, illusioner).
-Crafting: 2 diamonds + 3 netherite ingots.
+Crafting: 2 diamonds + 3 netherite ingots.(This project was built with heavy AI assistance — almost everything was generated with AI tools, then tested and reviewed by me.)
 
 ## Features
 
